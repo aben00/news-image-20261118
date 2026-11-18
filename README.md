@@ -13,28 +13,40 @@ Bounty: https://make.fun/bounty/news-image-20261118
 ## The image
 
 A newspaper-style front page, "THE WORLD TODAY — WEDNESDAY 18 NOVEMBER
-2026", with six illustrated stories — the day's most consequential events,
-across regions and fields, each with a picture and a short label so the day
-reads from the image alone:
+2026", with **32 verified stories**: six illustrated tiles — the day's most
+consequential events, each with a picture, a headline and a short deck — and
+a "THE DAY IN BRIEF" digest of 26 further one-line headlines across regions
+and fields, so the day reads from the image alone.
 
-1. **Drones over Kuwait** (Middle East · Gulf) — Kuwait's air defences
-   intercept hostile drones overnight; Bahrain sounds the all-clear after a
-   threat alert; US jets hit a missile site on Qeshm Island.
-2. **Nvidia doubles sales** (USA · Business) — revenue $115.8bn, up 103%
-   year on year, in its first report since Jensen Huang was ousted as CEO;
-   it guides $130bn for the next quarter.
-3. **Quad meets in Manila** (Asia · Diplomacy) — the first Quad leaders'
-   summit since 2024: Trump, Modi, Albanese and Takaichi agree joint
-   maritime patrols and a business forum.
-4. **Latvia's new government** (Europe · Politics) — parliament approves
-   Kulbergs' cabinet 57-34 ahead of Independence Day.
-5. **27 years for Trump plot** (USA · Justice) — a judge sentences Iranian
-   operative Asif Merchant to 330 months in prison for a plot to kill Trump.
-6. **Cyclone Akvan strengthens** (Asia · Weather) — the Bay of Bengal storm
-   is likely to become a severe cyclone by Thursday.
+Illustrated stories:
 
-Sources: Reuters, Al Jazeera, Nvidia, US DOJ, LSM — all events of, or first
-reported on, 18 November 2026.
+1. **Drones over Gulf** (Middle East) — Kuwait shoots down hostile drones
+   overnight; Bahrain sounds the all-clear after a threat alert.
+2. **Nvidia +103%** (USA · Business) — revenue $115.8bn, up 103% year on
+   year, in its first report since Jensen Huang was ousted as CEO; the
+   board rules out his return and guides $130bn next quarter.
+3. **Quad in Manila** (Asia · Diplomacy) — the first Quad leaders' summit
+   since 2024 opens in Manila with Trump, Modi, Albanese and Takaichi.
+4. **Kyiv bridges hit** (Europe · War) — Ukraine damages the Crimean bridge
+   as Russia strikes bridges in Kyiv.
+5. **Latvia's new govt** (Europe · Politics) — parliament approves
+   Kulbergs' cabinet 57–34 ahead of Independence Day.
+6. **Akvan strengthens** (Asia · Weather) — the Bay of Bengal cyclone is
+   set to turn severe by Thursday; Odisha readies 74 teams.
+
+The brief adds 26 more: the Dow's 848-point plunge, the Trump–BBC
+deposition deadline, Merchant's 27.5-year sentence, the reported Iran
+dirty-bomb plot, Taiwan flight curbs, Modi at the East Asia Summit, India's
+ITU re-election, Amazon's $7bn India plan, Japan's Asian energy agency,
+Deutsche Bank's ignored warnings, the BofA fund-manager poll, Salesforce's
+slide, Costco's outage-driven gains, St Kitts ending its citizenship
+scheme, Australia's settlement sanctions, Singapore's export jump,
+Malaysia's investment figures, Microsoft's outage cause, the WFP's Gaza
+warning, the UN's Ukraine and Sudan civilian tolls, Jordan 2–0 Australia,
+Celtic 2–1 Dundee, Malaysia 10–0 Guam, and early voting in Victoria.
+
+Sources: Reuters, AP, Al Jazeera, Nvidia, US DOJ, UN, Bernama, ABC — all
+events of, or first reported on, 18 November 2026.
 
 ## Files
 
